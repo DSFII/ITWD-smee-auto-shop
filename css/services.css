@@ -22,6 +22,9 @@ main, footer{
     font-family: 'Caladea';
 }
 
-coupon-area {
-  border: black dashed 3px;
+coupon-area {border-style: dashed;
+}
+
+h2{
+    color:red;
 }
