@@ -21,3 +21,14 @@ nav{
 main, footer{
     font-family: 'Caladea';
 }
+img{
+    scale: 50%;
+}
+#jumbocontact-section{
+    font-family: 'Emblema One';
+    height: 560px;
+    color: black;
+    background-image: url(../img/contact-us.jpg);
+    background-size: cover;
+    background-position: center center;
+}
