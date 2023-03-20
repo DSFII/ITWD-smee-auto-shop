@@ -21,3 +21,10 @@ nav{
 main, footer{
     font-family: 'Caladea';
 }
+
+coupon-area {border-style: dashed;
+}
+
+h2{
+    color:red;
+}
